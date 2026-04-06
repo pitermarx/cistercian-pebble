@@ -1,0 +1,27 @@
+{
+    "author": "pitermarx",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "cistercian-numerals",
+    "pebble": {
+        "displayName": "Cistercian Numerals",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "moddable",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "emery",
+            "gabbro"
+        ],
+        "uuid": "e1c98672-a4d9-44d7-80e1-5fb6fe84ac87",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
