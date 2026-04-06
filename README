@@ -1,1 +1,7 @@
 
+24h in cistercian numerals. https://en.wikipedia.org/wiki/Cistercian_numerals
+In thirteen century medieval Europe, monks of the Cistercian order developed a numeric system where a single glyph could encode a number up to 9999.
+
+This watchface makes use of numbers up to 2359 to encode the time.
+
+Digits are based on a horizontal or vertical stave, with the position of the digit on the stave indicating its place value (units, tens, hundreds or thousands). These digits are compounded on a single stave to indicate more complex numbers
