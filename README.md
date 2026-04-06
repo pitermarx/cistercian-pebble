@@ -2,14 +2,12 @@
 
 This is a project that explores Cistercian numerals.
 
-![Description of the image](https://raw.githubusercontent.com/pitermarx/cistercian-pebble/main/fae262ccdb5a428fb9cec3d2.png)
+[![](https://raw.githubusercontent.com/pitermarx/cistercian-pebble/main/fae262ccdb5a428fb9cec3d2.png)](https://apps.repebble.com/fae262ccdb5a428fb9cec3d2)
+![](https://raw.githubusercontent.com/pitermarx/cistercian-pebble/main/demo.png)
 
-## Features
-- Feature 1
-- Feature 2
+24h in [cistercian numerals](https://en.wikipedia.org/wiki/Cistercian_numerals). 
+In thirteen century medieval Europe, monks of the Cistercian order developed a numeric system where a single glyph could encode a number up to 9999.
 
-## Installation
-Follow these steps to install the project:
+This watchface makes use of numbers up to 2359 to encode the time.
 
-1. Clone the repository
-2. Install dependencies
+Digits are based on a horizontal or vertical stave, with the position of the digit on the stave indicating its place value (units, tens, hundreds or thousands). These digits are compounded on a single stave to indicate more complex numbers
